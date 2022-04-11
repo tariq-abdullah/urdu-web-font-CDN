@@ -72,7 +72,7 @@ In my opinion PDMS_NastaliqNafees (Named Nastaleeq) is best font in terms of cha
 ```
 <style>
 @font-face {
-  font-family: 'jameel-noori-nastaleeq';
+  font-family: 'akbar';
   src:  url('https://cdn.jsdelivr.net/gh/tariq-abdullah/urdu-web-font-CDN/Akbar.woff') format('woff');
 }
 </style>
