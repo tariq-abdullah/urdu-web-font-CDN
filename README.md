@@ -9,7 +9,7 @@ I you want your font to be used here, Pull requests are welcome
 
 In my opinion PDMS_NastaliqNafees (Named Nastaleeq) is best font in terms of character support vs font file size, so far. Lookwise Jameel Noori Nastaleeq and Lahori Nastaleeq are the best ones so fa
 
-https://data.jsdelivr.com/v1/package/gh/tariq-abdullah/urdu-web-font-CDN/badge
+![](https://data.jsdelivr.com/v1/package/gh/tariq-abdullah/urdu-web-font-CDN/badge)
 
 ## Using CSS @font-face
 
