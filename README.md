@@ -20,7 +20,7 @@ In my opinion PDMS_NastaliqNafees (Named Nastaleeq) is best font in terms of cha
 <style>
 @font-face {
   font-family: 'nastaleeq';
-  src:  url('https://cdn.jsdelivr.net/gh/tariq-abdullah/urdu-web-font-CDN/PDMS_NastaliqNafees.ttf') format('truetype');
+  src:  url('https://cdn.jsdelivr.net/gh/tariq-abdullah/urdu-web-font-CDN/PDMS_NastaliqNafees.ttf') format('opentype');
 }
 </style>
 ```
