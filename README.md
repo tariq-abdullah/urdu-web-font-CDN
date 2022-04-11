@@ -13,7 +13,7 @@ In my opinion PDMS_NastaliqNafees (Named Nastaleeq) is best font in terms of cha
 
 ## Using CSS @font-face
 
-### Nastaleeq General (Best Characted Support)
+### Nastaleeq General (Best Character Support)
 
 (Recommended Font - Fast Loading)
 ```
