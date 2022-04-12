@@ -13,17 +13,35 @@ In my opinion PDMS_NastaliqNafees (Named Nastaleeq) is best font in terms of cha
 
 ## Using CSS @font-face
 
-### Nastaleeq General (Best Character Support)
+### Nastaleeq General (Best Character Support) 
 
-(Recommended Font - Fast Loading)
+(Recommended Font - Fast Loading) | PDMS Jauhar Regular
 ```
 <style>
 @font-face {
   font-family: 'nastaleeq';
+  src:  url('https://cdn.jsdelivr.net/gh/tariq-abdullah/urdu-web-font-CDN/_PDMS_Jauhar_Regular.woff') format('woff');
+}
+</style>
+```
+
+
+
+
+
+### PDMS Nastaleeq Nafees General (Best Character Support)
+
+
+```
+<style>
+@font-face {
+  font-family: 'nastaleeq-nafees';
   src:  url('https://cdn.jsdelivr.net/gh/tariq-abdullah/urdu-web-font-CDN/PDMS_NastaliqNafees.ttf') format('opentype');
 }
 </style>
 ```
+
+
 
 
 ### Lahori Nastaleeq
