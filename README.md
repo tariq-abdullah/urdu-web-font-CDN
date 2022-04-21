@@ -100,3 +100,10 @@ In my opinion PDMS_NastaliqNafees (Named Nastaleeq) is best font in terms of cha
 if you have questions please direct them to Tariq Abdullah on tariq@iqltech.com
 
 
+### Copyright
+
+All fonts are copyright of their respective owners. Use at your discretion and please make sure you have permission to use the font.
+
+### License
+
+MIT License
