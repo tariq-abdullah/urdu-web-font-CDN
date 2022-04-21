@@ -29,7 +29,7 @@ In my opinion PDMS_NastaliqNafees (Named Nastaleeq) is best font in terms of cha
 
 
 
-### PDMS Nastaleeq Nafees General (Best Character Support)
+### PDMS Nastaleeq Nafees General (Good Character Support)
 
 
 ```
